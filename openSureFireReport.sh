@@ -1,0 +1,1 @@
+star target/reports/surefire.html
