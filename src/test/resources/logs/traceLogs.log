@@ -1,9 +1,11 @@
-19:05:11.751 INFO  AUTOMATION - Suite finalizada: Default Suite
-19:05:12.060 DEBUG AUTOMATION - Inicializando el driver
-19:05:12.092 DEBUG AUTOMATION - Inicializando el driver
-19:05:39.638 DEBUG AUTOMATION - Asignando el driver al diver provider
-19:05:40.296 INFO  AUTOMATION - Comenzando el Test: primerTest
-19:05:40.431 INFO  AUTOMATION - Esperar 5 segundos!!
-19:05:44.579 INFO  AUTOMATION - Test exitoso: primerTest
-19:05:44.591 DEBUG AUTOMATION - Matando el driver
-19:05:46.215 INFO  AUTOMATION - Suite fibalizada: Default Suite
+17:42:45.391 INFO  AUTOMATION - Suite finalizada: Default Suite
+17:42:45.612 DEBUG AUTOMATION - Inicializando el driver
+17:42:45.624 DEBUG AUTOMATION - Inicializando el driver
+17:42:59.911 DEBUG AUTOMATION - Asignando el driver al diver provider
+17:43:00.254 INFO  AUTOMATION - Comenzando el Test: primerTest
+17:43:00.341 DEBUG AUTOMATION - Borrando las carpetas de evidencias
+17:43:00.465 INFO  AUTOMATION - Esperar 5 segundos!!
+17:43:04.482 DEBUG AUTOMATION - Tomando evidencias para allure
+17:43:04.493 INFO  AUTOMATION - Test exitoso: primerTest
+17:43:04.496 DEBUG AUTOMATION - Matando el driver
+17:43:05.202 INFO  AUTOMATION - Suite fibalizada: Default Suite
